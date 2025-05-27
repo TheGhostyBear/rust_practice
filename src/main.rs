@@ -1,4 +1,10 @@
 fn main() {
     println!("Hello, world!");
-    print!("This is just a test");
+    println!("This is just a test");
 }
+// Test comment
+/* testing nested comment
+still nested
+nest
+//! Generate library docs for the enclosing item.
+ed */
